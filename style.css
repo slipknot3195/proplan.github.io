@@ -1,12 +1,12 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #000;
+  color: #fff;
 }
 
 header {
-  background-color: #000000;
+  background-color: #000;
   box-shadow: 0px 2px 4px rgba(255, 255, 255, 0.1);
   padding: 20px;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
 }
@@ -37,7 +37,7 @@ nav ul li a:hover {
   background-image: url("dog.jpg");
   background-size: cover;
   background-position: center;
-  color: #ffffff;
+  color: #fff;
   text-align: center;
   padding: 100px 0;
 }
@@ -54,7 +54,7 @@ nav ul li a:hover {
 
 .button {
   background-color: #ff6f00;
-  color: #ffffff;
+  color: #fff;
   padding: 10px 20px;
   border-radius: 5px;
   text-decoration: none;
@@ -82,7 +82,7 @@ nav ul li a:hover {
 }
 
 .products {
-  background-color: #222222;
+  background-color: #222;
   padding: 50px;
   text-align: center;
 }
@@ -103,7 +103,7 @@ nav ul li a:hover {
 
 .products li {
   width: 30%;
-  background-color: #ffffff;
+  background-color: #fff;
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
@@ -128,7 +128,7 @@ nav ul li a:hover {
 .contact {
   padding: 50px;
   text-align: center;
-  background-color: #ffffff;
+  background-color: #fff;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -152,5 +152,6 @@ nav ul li a:hover {
 .contact textarea {
   width: 100%;
   padding: 10px;
-  margin
-
+  margin-bottom: 20px;
+  border-radius: 5px;
+  background-color: #fff
