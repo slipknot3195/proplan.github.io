@@ -68,17 +68,20 @@ nav ul li a:hover {
 .about {
   padding: 50px;
   text-align: center;
+  background-color: #000;
 }
 
 .about h2 {
   font-size: 36px;
   margin-bottom: 20px;
+  color: #fff;
 }
 
 .about p {
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 40px;
+  color: #fff;
 }
 
 .products {
@@ -90,6 +93,7 @@ nav ul li a:hover {
 .products h2 {
   font-size: 36px;
   margin-bottom: 20px;
+  color: #fff;
 }
 
 .products ul {
@@ -151,7 +155,4 @@ nav ul li a:hover {
 .contact input,
 .contact textarea {
   width: 100%;
-  padding: 10px;
-  margin-bottom: 20px;
-  border-radius: 5px;
-  background-color: #fff
+ 
